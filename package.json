@@ -1,0 +1,29 @@
+{
+  "name": "two-factor",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000w\u0000o\u0000-\u0000f\u0000a\u0000c\u0000t\u0000o\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariolazzari/two-factor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariolazzari/two-factor/issues"
+  },
+  "homepage": "https://github.com/mariolazzari/two-factor#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-json-db": "^1.1.0",
+    "speakeasy": "^2.0.0",
+    "uuid": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
